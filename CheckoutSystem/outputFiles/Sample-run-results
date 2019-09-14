@@ -4,11 +4,11 @@
  (SKU) atv (Name) Apple TV (Price) $109.5
  (SKU) vga (Name) VGA adapter (Price) $30.0
 %%%%%%%%%%%%%%%%%%%%%%%% Product Catalogue %%%%%%%%%%%%%%%%%%%%%%%%
-Enter product SKU to scan : atv
-Enter product SKU to scan : atv
-Enter product SKU to scan : atv
-Enter product SKU to scan : vga
-Enter product SKU to scan : xxx
+Enter product SKU to scan (xxx to exit) : atv
+Enter product SKU to scan (xxx to exit) : atv
+Enter product SKU to scan (xxx to exit) : atv
+Enter product SKU to scan (xxx to exit) : vga
+Enter product SKU to scan (xxx to exit) : xxx
 Grand Total $249.0
 =====================================================================================
 
@@ -18,14 +18,14 @@ Grand Total $249.0
  (SKU) atv (Name) Apple TV (Price) $109.5
  (SKU) vga (Name) VGA adapter (Price) $30.0
 %%%%%%%%%%%%%%%%%%%%%%%% Product Catalogue %%%%%%%%%%%%%%%%%%%%%%%%
-Enter product SKU to scan : atv
-Enter product SKU to scan : ipd
-Enter product SKU to scan : ipd
-Enter product SKU to scan : atv
-Enter product SKU to scan : ipd
-Enter product SKU to scan : ipd
-Enter product SKU to scan : ipd
-Enter product SKU to scan : xxx
+Enter product SKU to scan (xxx to exit) : atv
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : atv
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : xxx
 Grand Total $2718.95
 
 =====================================================================================
@@ -36,10 +36,10 @@ Grand Total $2718.95
  (SKU) atv (Name) Apple TV (Price) $109.5
  (SKU) vga (Name) VGA adapter (Price) $30.0
 %%%%%%%%%%%%%%%%%%%%%%%% Product Catalogue %%%%%%%%%%%%%%%%%%%%%%%%
-Enter product SKU to scan : mbp
-Enter product SKU to scan : vga
-Enter product SKU to scan : ipd
-Enter product SKU to scan : xxx
+Enter product SKU to scan (xxx to exit) : mbp
+Enter product SKU to scan (xxx to exit) : vga
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : xxx
 Grand Total $1949.98
 
 =====================================================================================
@@ -50,13 +50,13 @@ Grand Total $1949.98
  (SKU) atv (Name) Apple TV (Price) $109.5
  (SKU) vga (Name) VGA adapter (Price) $30.0
 %%%%%%%%%%%%%%%%%%%%%%%% Product Catalogue %%%%%%%%%%%%%%%%%%%%%%%%
-Enter product SKU to scan : ipd
-Enter product SKU to scan : ipd
-Enter product SKU to scan : ipd
-Enter product SKU to scan : ipd
-Enter product SKU to scan : ipd
-Enter product SKU to scan : ipd
-Enter product SKU to scan : xxx
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : ipd
+Enter product SKU to scan (xxx to exit) : xxx
 Grand Total $2999.94
 
 =====================================================================================

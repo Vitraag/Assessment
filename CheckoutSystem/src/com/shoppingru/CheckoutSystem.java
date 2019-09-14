@@ -99,7 +99,7 @@ public class CheckoutSystem {
 		{
 			while(true)
 			{
-	            System.out.print("Enter product SKU to scan : ");
+	            System.out.print("Enter product SKU to scan (xxx to exit) : ");
 	            strSKU = scanner.next();  // Read user input
 	            if(strSKU!=null && strSKU.equals(stopMarker))
 		           	break;
